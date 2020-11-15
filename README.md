@@ -86,9 +86,6 @@ https://youtu.be/VgzSOwj_Nrc
 </div>
 
 ### Made with love from:
-<a href= "https://github.com/Manjotsinghbagha">Manjot Singh Bagha</a><br>
-<a href= "https://github.com/JigarJoshi04">Jigar Joshi</a><br>
-<a href= "https://github.com/sonali681">Sonali Saini</a><br>
-<a href= "https://github.com/vaibhavarora102">Vaibhav Arora</a><br>
-
+<br>
+Team CreatorsSquad
 
