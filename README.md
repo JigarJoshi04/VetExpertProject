@@ -71,7 +71,7 @@ This dieticians will be asked to pay for our service.
 Here we could advertise some shops from where pet goods, medicine or curing material could be bought and also could promote specific VET on basis of their subscription and requirement.
 
 ## Video link for demo
-https://youtu.be/VgzSOwj_Nrc
+https://www.youtube.com/watch?v=sCMhEsAkTD4
 
 ## Screenshots
 <div display=table; clear=both class="row">
